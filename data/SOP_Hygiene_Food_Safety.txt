@@ -1,0 +1,135 @@
+STANDARD OPERATING PROCEDURE
+SOP-001: HYGIENE AND FOOD SAFETY PROTOCOLS
+
+Document Version: 2.3
+Effective Date: January 15, 2025
+Last Updated: October 20, 2025
+Department: All Production Areas
+Approved By: Head of Operations
+
+═══════════════════════════════════════════════════════════════
+
+PURPOSE:
+To establish comprehensive hygiene and food safety standards for all bakery staff to prevent contamination, ensure product quality, and comply with Dubai Municipality food safety regulations.
+
+SCOPE:
+This SOP applies to all employees working in production, packaging, storage, and customer-facing areas.
+
+═══════════════════════════════════════════════════════════════
+
+PERSONAL HYGIENE REQUIREMENTS:
+
+1. HANDWASHING PROTOCOL
+   • Wash hands thoroughly for minimum 20 seconds with antibacterial soap
+   • Required before: starting work, after breaks, after handling raw materials, after touching face/hair
+   • Use hand sanitizer between washings
+   • Keep nails trimmed short and clean (no nail polish allowed)
+
+2. UNIFORM AND PROTECTIVE EQUIPMENT
+   • Wear clean bakery uniform daily (white chef coat, apron, pants)
+   • Hair must be completely covered with hairnet or chef hat
+   • Beard nets required for all facial hair
+   • Closed-toe, non-slip shoes mandatory
+   • Remove all jewelry except plain wedding band
+   • Disposable gloves must be worn when handling ready-to-eat products
+
+3. HEALTH AND ILLNESS POLICY
+   • Report any illness, cuts, or infections to supervisor immediately
+   • Do not work if experiencing: fever, vomiting, diarrhea, jaundice, open wounds
+   • Cover all cuts with waterproof bandage plus glove
+   • Medical clearance required before returning to work after foodborne illness
+
+═══════════════════════════════════════════════════════════════
+
+FOOD SAFETY PROCEDURES:
+
+1. TEMPERATURE CONTROL
+   • Refrigerated storage: 0-4°C (32-39°F)
+   • Frozen storage: -18°C (0°F) or below
+   • Hot holding: Above 60°C (140°F)
+   • Monitor and log temperatures every 2 hours
+   • Report any equipment malfunction immediately
+
+2. CROSS-CONTAMINATION PREVENTION
+   • Use separate cutting boards for different allergens
+   • Color-coded system: Red=meat, Blue=fish, Green=vegetables, Yellow=baked goods
+   • Never place finished products near raw ingredients
+   • Clean and sanitize all surfaces between tasks
+   • Store raw materials below finished products in refrigerators
+
+3. INGREDIENT HANDLING
+   • Check all deliveries for quality and temperature
+   • Follow FIFO (First In, First Out) rotation
+   • Label all opened ingredients with date and time
+   • Discard any ingredients past expiration date
+   • Store flour, sugar, and dry goods in sealed containers
+   • Keep ingredients minimum 15cm off the floor
+
+═══════════════════════════════════════════════════════════════
+
+CLEANING AND SANITATION SCHEDULE:
+
+CONTINUOUS:
+• Wipe spills immediately
+• Clean as you go
+• Sanitize workstations between tasks
+
+HOURLY:
+• Wipe down production counters with approved sanitizer
+• Empty trash bins when half-full
+
+DAILY:
+• Deep clean all equipment after use
+• Mop floors with sanitizing solution
+• Clean and sanitize sinks
+• Remove all waste to external bins
+• Clean display cases inside and out
+
+WEEKLY:
+• Deep clean ovens and mixers
+• Clean refrigerator/freezer interiors
+• Sanitize storage shelving
+• Deep clean floor drains
+
+MONTHLY:
+• Equipment maintenance and calibration
+• Deep clean ventilation hoods and filters
+• Pest control inspection
+
+═══════════════════════════════════════════════════════════════
+
+APPROVED CLEANING AGENTS:
+• Food-safe sanitizer: Quaternary ammonium solution (200ppm)
+• Degreaser: Alkaline-based cleaner (for ovens)
+• Glass cleaner: Ammonia-free formula
+• Floor cleaner: pH-neutral sanitizing solution
+
+MONITORING AND COMPLIANCE:
+• Daily hygiene checklist completed by shift supervisor
+• Monthly internal audits conducted
+• Quarterly Dubai Municipality inspections
+• Staff retraining every 6 months
+• Violation reporting and corrective action documentation
+
+═══════════════════════════════════════════════════════════════
+
+NON-COMPLIANCE CONSEQUENCES:
+1st Violation: Verbal warning and retraining
+2nd Violation: Written warning
+3rd Violation: Suspension pending investigation
+Serious Violation: Immediate termination
+
+═══════════════════════════════════════════════════════════════
+
+REFERENCES:
+• Dubai Municipality Food Safety Guidelines 2025
+• UAE Food Safety Standards
+• ISO 22000:2018 Food Safety Management
+
+DOCUMENT CONTROL:
+Prepared by: Quality Assurance Manager
+Reviewed by: Operations Director
+Next Review Date: January 15, 2026
+
+═══════════════════════════════════════════════════════════════
+END OF DOCUMENT

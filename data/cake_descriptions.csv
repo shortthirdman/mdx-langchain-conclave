@@ -1,0 +1,23 @@
+Name,Category,Ingredients,Description,Energy_kcal,Weight_grams,Restrictions,Delivery_time_hr,Available
+Torta della Nonna Amore,G,"Ricotta, pine nuts, lemon zest, vanilla, sugar, flour",A nostalgic Tuscan-inspired cake with creamy ricotta and lemon warmth,320,850,"Contains dairy, gluten, eggs",24,Yes
+Festiva della Sicilia,G,"Almonds, citrus zest, mascarpone, candied orange, olive oil",A zesty almond cake with mascarpone frosting and Sicilian citrus flair,360,900,"Contains nuts, dairy, eggs",24,Yes
+Dubai Midnight Pistachio Fantasy,G,"Pistachios, rose syrup, cardamom, white chocolate, dates",Lush green cake with exotic floral pistachio notes and white ganache,420,1000,"Contains nuts, dairy",36,Yes
+Ferrari Redline Fudge,G,"Dark chocolate, red glaze, fudge, espresso syrup",Dense chocolate fudge cake with red mirror glaze and a bold kick,450,950,"Contains dairy, caffeine",24,Yes
+Goalpost Delight - Soccer Fan Cake,G,"Vanilla sponge, fondant, jam, whipped cream","Themed cake with stadium design, perfect for football fans",390,1200,May contain artificial colors,24,Yes
+Trophy Cake – Champions Edition,G,"Chocolate sponge, gold fondant, peanut butter mousse","A tall, layered cake shaped like a trophy, with indulgent flavors",460,1400,"Contains nuts, dairy, gluten",48,Yes
+Birthday Blast Berry Bomb,G,"Mixed berries, vanilla sponge, cream cheese, chocolate curls","Fruity, colorful cake perfect for birthdays and celebrations",380,1100,"Contains dairy, gluten, berries",24,Yes
+ChocoCaramel Birthday Surprise,G,"Chocolate, caramel, fudge, popping candy",Rich chocolate with hidden caramel and surprise crunch,470,1200,"Contains milk, eggs, soy",24,Yes
+Velvet Dream Cloud,G,"Vanilla sponge, mascarpone, white chocolate mousse","Fluffy, cloud-like cake with light, elegant creaminess",350,1000,"Contains dairy, wheat",24,Yes
+Hazelnut Toffee Crown,G,"Hazelnuts, caramel, praline, brown sugar sponge",Dense toffee cake with rich hazelnut flavor and caramel crowns,480,1150,"Contains nuts, dairy, gluten",48,No
+Molten Mango Lava Cake,G,"Mango, coconut sponge, mango coulis, pineapple garnish",Exotic tropical lava cake with molten mango center,410,900,"Contains dairy, coconut",36,No
+Black Forest Cake,R,"Chocolate sponge, cherries, whipped cream, kirsch","Classic German cake with cream, cherry, and a chocolate base",370,1000,"Contains dairy, alcohol, gluten",12,Yes
+Tiramisu Cake,R,"Coffee, mascarpone, sponge, cocoa powder",Layered coffee dessert cake with creamy filling,340,950,"Contains dairy, gluten",12,Yes
+Red Velvet Cake,R,"Cocoa, buttermilk, red dye, cream cheese",Rich red cake with soft crumb and tangy frosting,390,1000,"Contains dairy, gluten",12,Yes
+Carrot Cake,R,"Carrots, walnuts, spices, cream cheese",Earthy and sweet with spice and nutty crunch,400,1100,"Contains nuts, dairy, gluten",12,Yes
+Opera Cake,R,"Almond sponge, coffee buttercream, ganache",Elegant French cake with rich layered structure,420,900,"Contains dairy, nuts, gluten",24,Yes
+Sacher Torte,R,"Chocolate, apricot jam, sponge, glaze",Austrian dark chocolate cake with fruity jam filling,410,1000,"Contains dairy, gluten",24,Yes
+Strawberry Shortcake,R,"Strawberries, vanilla sponge, whipped cream","Light, airy, and refreshing strawberry cream cake",360,950,"Contains dairy, gluten",12,Yes
+Lemon Drizzle Cake,R,"Lemon zest, lemon juice, sugar glaze","Moist, zingy cake with crisp sugar coating",340,900,"Contains dairy, gluten",12,Yes
+Cheesecake,R,"Cream cheese, biscuit crust, seasonal fruits",Smooth and creamy classic with rich flavor,400,1000,"Contains dairy, gluten",12,No
+Rainbow Cake,R,"Food coloring, vanilla sponge, buttercream",Colorful layered cake popular for birthdays,390,1100,"Contains dairy, gluten, dye",12,Yes
+Chocolate Truffle Cake,R,"Chocolate, ganache, truffle cream","Deep, rich chocolate cake for purists",470,1000,"Contains dairy, gluten, soy",12,Yes
