@@ -1,0 +1,17 @@
+langflow:https://github.com/langflow-ai/langflow
+
+You can launch cloud version in the notebook:
+https://colab.research.google.com/drive/1-A-ik6EzznHFO5XtlvRa-wlONn1F23fi?usp=sharing
+
+or run locally:
+
+install:
+pip install uv
+
+venv:
+uv venv
+.venv\Scripts\activate
+uv pip install langflow -U
+
+run:
+uv run langflow run
