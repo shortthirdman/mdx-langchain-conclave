@@ -1,0 +1,17 @@
+services:
+  bakery-api:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - LANGCHAIN_API_KEY=${LANGSMITH_API_KEY}
+      - LANGCHAIN_TRACING_V2=true
+      - LANGCHAIN_PROJECT=${LANGSMITH_PROJECT}
+    # The volume mount is commented out as the data is now copied directly into the image.
+    # If you need to mount it for local development, you can uncomment it and adjust the path.
+    # volumes:
+    #   - ../rag_artifacts/bakery_faiss_index:/app/bakery_faiss_index
+    restart: unless-stopped

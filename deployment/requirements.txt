@@ -1,0 +1,12 @@
+langchain==0.3.27
+langchain-core==0.3.79
+langchain-openai==0.3.35
+langchain-community>=0.3
+langgraph==1.0.1
+langserve[all]>=0.3.3
+fastapi>=0.120.0
+uvicorn[standard]>=0.38.0
+python-dotenv>=1.1.1
+faiss-cpu>=1.7.4
+pydantic>=2.0.0
+pandas>=1.0.0
